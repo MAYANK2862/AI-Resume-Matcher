@@ -1,6 +1,12 @@
 """
 FastAPI Endpoints Integration Test
 """
+import os
+import sys
+
+# Ensure backend directory is in sys.path
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 from fastapi.testclient import TestClient
 from main import app
 from sample_data import SAMPLE_RESUMES, SAMPLE_JOBS
