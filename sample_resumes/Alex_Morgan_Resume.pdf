@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2767 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 750 Td
+(Alex Morgan) Tj
+T*
+(San Francisco, CA | \(555\) 234-5678 | alex.morgan.dev@email.com) Tj
+T*
+(linkedin.com/in/alexmorgandev | github.com/alexmorgandev) Tj
+T*
+T*
+(PROFESSIONAL SUMMARY) Tj
+T*
+(Dynamic Full Stack Engineer with 3+ years of experience engineering high-scale web platforms and RESTful APIs using Python, FastAPI, and React. Passionate about clean architecture, test-driven development, and cloud scalability.) Tj
+T*
+T*
+(CORE COMPETENCIES & TECHNICAL SKILLS) Tj
+T*
+(- Programming Languages: Python, JavaScript \(ES6+\), TypeScript, SQL, HTML5, CSS3) Tj
+T*
+(- Frontend: React, Redux, Tailwind CSS, Vite, Responsive Design) Tj
+T*
+(- Backend & Frameworks: FastAPI, Flask, Node.js, Express.js, REST APIs) Tj
+T*
+(- Databases: PostgreSQL, SQLite, Redis) Tj
+T*
+(- DevOps & Tools: Docker, Git, GitHub Actions, Linux, Postman) Tj
+T*
+(- Methodologies: Agile, Scrum, Unit Testing, System Design, Object-Oriented Programming) Tj
+T*
+T*
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+(Software Engineer | Apex Cloud Solutions | Austin, TX) Tj
+T*
+(June 2022 - Present) Tj
+T*
+(- Architected and delivered 12+ RESTful microservices with FastAPI and PostgreSQL, serving over 250,000 monthly active users.) Tj
+T*
+(- Reduced API response latency by 38% through query optimization, indexing, and Redis in-memory caching.) Tj
+T*
+(- Developed an interactive responsive dashboard in React and Tailwind CSS, increasing user engagement by 27%.) Tj
+T*
+(- Automated CI/CD deployment pipelines using GitHub Actions and Docker, cutting deployment cycle times by 50%.) Tj
+T*
+(- Conducted regular code reviews and mentored 2 junior developers on clean code and unit testing.) Tj
+T*
+T*
+(Junior Web Developer | BrightWave Technologies | San Jose, CA) Tj
+T*
+(August 2020 - May 2022) Tj
+T*
+(- Built client-facing web pages and components using React, JavaScript, and HTML/CSS.) Tj
+T*
+(- Integrated backend endpoints and third-party payment gateways with Stripe and OAuth.) Tj
+T*
+(- Wrote automated unit and integration tests using Jest and Pytest, boosting code coverage from 60% to 85%.) Tj
+T*
+(- Collaborated closely with UI/UX designers to implement pixel-perfect user interfaces.) Tj
+T*
+T*
+(KEY PROJECTS) Tj
+T*
+(AI Resume Analyzer & Matcher) Tj
+T*
+(- Developed a full-stack resume analysis platform using FastAPI, Python NLP, React, and SQLite.) Tj
+T*
+(- Extracted skills, calculated cosine similarity match scores, and provided actionable ATS improvement recommendations.) Tj
+T*
+T*
+(E-Commerce Microservices Engine) Tj
+T*
+(- Built a containerized shopping platform with Docker, PostgreSQL, and FastAPI handling 10,000 concurrent requests.) Tj
+T*
+T*
+(EDUCATION) Tj
+T*
+(Bachelor of Science in Computer Science) Tj
+T*
+(University of California, Davis | Graduated 2020) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003060 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3130
+%%EOF
